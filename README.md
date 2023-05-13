@@ -109,7 +109,7 @@ scoop install openai-translator
 
 ### Install Manually
 
-1. Go to the [Latest Release](https://github.com/yetone/openai-translator/releases/latest) page and download the corresponding chip's `.dmg` installation package. Note: Use aarch64 version for Apple Silicon machines and run `xattr` command below.
+1. Go to the [Latest Release](https://github.com/i-Tom/openai-translator/releases/latest) page and download the corresponding chip's `.dmg` installation package. Note: Use aarch64 version for Apple Silicon machines and run `xattr` command below.
 2. Double click the downloaded file to install it.
 3. Ready to use!
 
